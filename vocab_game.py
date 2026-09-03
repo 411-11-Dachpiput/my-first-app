@@ -99,7 +99,7 @@ ans2 = st.text_input(
     value=st.session_state.ans2_val,
 )
 ans3 = st.text_input(
-    "ข้อ 3: He is going to buy new `c _ _ p _ t e r`. 🍎",
+    "ข้อ 3: He is going to buy new `c _ _ p _ t e r`. 🖥️",
     value=st.session_state.ans3_val,
 )
 ans4 = st.text_input(
